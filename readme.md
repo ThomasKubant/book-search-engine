@@ -10,12 +10,6 @@
 
 ### 🏠 [Homepage](https://thomaskubant-book-search.herokuapp.com/)
 
-## Install
-
-```sh
-npm install
-```
-
 ## Usage
 
 ```sh
