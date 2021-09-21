@@ -1,44 +1,38 @@
-# Book Search Engine
-  ## Description
-  React App that allows users to search for books using Google Book API and save their favorite books to their account
-  ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
-  ## Installation
-  Web App is live at https://thomaskubant-book-search.herokuapp.com/
-  ## Usage
-  Sign up, search books and save them to your favorite books list
-  
-  ## Credits
-  No collaborators to credit.
-  ## License
-  Unlicensed
-  This is free and unencumbered software released into the public domain.
-    Anyone is free to copy, modify, publish, use, compile, sell, or
-    distribute this software, either in source code form or as a compiled
-    binary, for any purpose, commercial or non-commercial, and by any
-    means.
-    
-    In jurisdictions that recognize copyright laws, the author or authors
-    of this software dedicate any and all copyright interest in the
-    software to the public domain. We make this dedication for the benefit
-    of the public at large and to the detriment of our heirs and
-    successors. We intend this dedication to be an overt act of
-    relinquishment in perpetuity of all present and future rights to this
-    software under copyright law.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-    IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-    OTHER DEALINGS IN THE SOFTWARE.
-    
-    For more information, please refer to [Unlicense.org](https://unlicense.org)
-  ## Questions
-  Author: [Thomas Kubant](https://github.com/ThomasKubant)
-  Github: [undefined](https://github.com/ThomasKubant)
-  Email: [thomaskubant@gmail.com](mailto:thomaskubant@gmail.com)
+<h1 align="center">Welcome to Book Search Engine 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: Unlicensed" src="https://img.shields.io/badge/License-Unlicensed-yellow.svg" />
+  </a>
+</p>
+
+> Search engine that allows users to sign up, search for books using the Google Books API, and save books to their favorites list. Books have a detailed description and an image.
+
+### 🏠 [Homepage](https://thomaskubant-book-search.herokuapp.com/)
+
+## Install
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+visit https://thomaskubant-book-search.herokuapp.com/ and create account.
+```
+
+## Author
+
+👤 **Thomas Kubant**
+
+* Website: https://thomaskubant.github.io/react-portfolio/
+* Github: [@ThomasKubant](https://github.com/ThomasKubant)
+* LinkedIn: [@ThomasKubant](https://linkedin.com/in/ThomasKubant)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
